@@ -13,6 +13,7 @@ namespace demo001
 {
     public class Startup
     {
+        //Start up function
         public Startup(IConfiguration configuration)
         {
             Configuration = configuration;
